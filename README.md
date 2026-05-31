@@ -20,8 +20,8 @@ Estudo de API RESTful de gerenciamento de tarefas construída com FastAPI. Proje
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/fastapi-todo.git
-cd fastapi-todo
+git clone https://github.com/carlosLima565/Teste-FastApi.git
+cd Teste-FastApi
 ```
 
 Crie e ative o ambiente virtual:
